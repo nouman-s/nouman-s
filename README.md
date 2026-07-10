@@ -23,23 +23,11 @@ i,'      ',.`.,'t@@$$Bp*$W&k                                                  La
                                                                               GitHub Actions, Laragon
 
                                                 - Contact ------------------------------------
-                                                - Email.Personal ............ dev.abdulmanan92@gmail.com
-                                                - Email.Work ................ nouman@ikonic.dev
+                                                - Email.Personal ............ noumanqureshie@gmail.com
+                                                - Email.Work ................ nouman@ikonicdev.com
                                                 - LinkedIn .................. linkedin.com/in/noumansarwarr
                                                 - GitHub .................... github.com/nouman-s
-                                                - Company ................... ikonic.dev
+                                                - Company ................... ikonicdev.com
 ```
 
-<!--
-  How to publish
-  ──────────────
-  1. Create a new PUBLIC repo named EXACTLY  nouman-s  (matches your username).
-  2. Add this file as  README.md  at the repo root.
-  3. Push. GitHub auto-mounts it on your profile.
-
-  Notes
-  ─────
-  - Everything is inside a ```text code fence so monospace alignment holds.
-  - Left column is 44 chars wide; right column starts at column 48.
-  - Regenerate the ASCII with scratchpad/build_readme.py if you change photo.
--->
+**Tech Lead | AI-Powered Full Stack Developer** · [LinkedIn](https://linkedin.com/in/noumansarwarr) · [nouman@ikonicdev.com](mailto:nouman@ikonicdev.com)
