@@ -1,31 +1,31 @@
 ```text
                                                       nouman@sarwar
-                       zvtfjxx                        -----------------------------------------
-                 xvt!ivx!;:::;jct                     - OS ...................... Windows 11, macOS, Ubuntu
-               jYx;:.;?!!;:,...,fcj                   - Uptime .................. Building since 2018
-              vOY!, .;t?::,, .. ..vz                  - Host .................... Ikonic  (Islamabad, PK)
-             jYz! .fOdkdOYcxt:.. . vc                 - Role .................... Tech Lead
-             Lvi.,zW8WoookpqLx!.    cv                - Kernel .................. AI-Powered Full-Stack
-             Yt, jW%%8MokkkdpLv!    tv                - IDE ..................... VS Code, Cursor, PhpStorm
-             cf.;kWopqddkkdYjjft!   fv
-             cf,?8dLj?jqoLji??ttx;  fc                - Languages.Programming ... PHP, TypeScript, JavaScript,
-             Y?,v%odzjzo%Ofjcfffc?  .q                                             Python, SQL
-             cj;L$%8MM8$%qzYOqqOYj  jY                - Languages.Web ........... HTML, CSS, Tailwind, GraphQL
-              xYO%%%WM8MMLxzOpqLLf!zv                 - Languages.Real .......... English, Urdu
-               Y%888odpjt?:!tvYzzxxY
-                YMW8zitxccf;,.fvxiO                   - Frameworks .............. Laravel, Next.js, React,
-                xzWWqqkdzxxjxjjxtLt                                                Node.js, Vue, Nuxt
-                 jzdM88kv?tvcfticc                    - Databases ............... MySQL, PostgreSQL, MongoDB, Redis
-                  zdvcLzj?!!;.;xc                     - AI & Tooling ............ OpenAI, Claude, Vercel AI SDK,
-                  z8ov?:    .!xzx                                                  LangChain, RAG, MCP
-                ?Lp$88WdYjtjvcvYcz                    - DevOps .................. Docker, AWS, Vercel,
-             ?fvYxk8kWWWMqLYYYxOv!cxt                                              GitHub Actions, Laragon
-         fjxffxzc?p$qOoMdpqqqYOWt .,!txxf?
-   ifjjxxjftt?jxx?Y@$qzqppppOk8k; .    .:ifjxj?       - Contact -------------------------------
-jvcccvjf??tfttjfjtc$o8MqLqdkMWop. ..  ....,,,:ifxx    - Email.Personal .......... dev.abdulmanan92@gmail.com
-Yjxft?????tfftftffjMW%$@MOkWMpdO.......,,,,,,,,,,x    - Email.Work .............. nouman@ikonic.dev
-j!ft??????tf?tttffid$%$$@WdWdoWc ..,,,,.,,,,,,,,,t    - LinkedIn ................ linkedin.com/in/noumansarwarr
-x;?t????t??t????tf!L$$$$$@8kko8f;;;;;;;;;;;;;;;;;x    - GitHub .................. github.com/nouman-s
+                   jxxvMkYLpkdv                       -----------------------------------------
+                 poYxvYcti!!!fpMY                     - OS ...................... Windows 11, macOS, Ubuntu
+               OWz?!,ij?t?!;:::iLMq                   - Uptime .................. Building since 2018
+              koqt;.,ijfi!!;,,,,,:dM                  - Host .................... Ikonic  (Islamabad, PK)
+             poO?.:xpoMopOYcj!:, ,,dk                 - Role .................... Tech Lead
+             8Yf:;O8%8MMMokdqz?:. ..kk                - Kernel .................. AI-Powered Full-Stack
+             Wx;.v8%$%WMMMoodqYt.  .Lk                - IDE ..................... VS Code, Cursor, PhpStorm
+             Wv:io8MkdkooMkOcvxxt. .Lk
+             Mv;f%kqcjcdMqcfjfjxzi  LM                - Languages.Programming ... PHP, TypeScript, JavaScript,
+             8j!z$MkLvLM%pvvYvxvLf  i8                                             Python, SQL
+             Mq?q$%8WW%$%dOOpddpqv.,qM                - Languages.Web ........... HTML, CSS, Tailwind, GraphQL
+              pWp%$%8W%WWqzLpkdqqvtod                 - Languages.Real .......... English, Urdu
+               8$8%8Mkkcjj!txYOLLcYW
+               cWW88LfxcYYx?::vYzj8f                  - Frameworks .............. Laravel, Next.js, React,
+                pk88ppMoLczczcczjWL                                                Node.js, Vue, Nuxt
+                 pokW%%MYjjYLvxtko                    - Databases ............... MySQL, PostgreSQL, MongoDB, Redis
+                  okYYqLvf??i:ipk                     - AI & Tooling ............ OpenAI, Claude, Vercel AI SDK,
+                  o%Mzf!,...:tzWp                                                  LangChain, RAG, MCP
+                z8k$%%8oOvxcYYYOdWj                   - DevOps .................. Docker, AWS, Vercel,
+             zqkpzo8M8W8WdqqOOzpcjokzj                                             GitHub Actions, Laragon
+        xLpdOvzOLjd$dpWWoddpdOp8f ,!xLpdOcf
+   vLppOzcvxxjczcjO@$dOdddkkpo%M!.,..,,:?vLppqzf      - Contact -------------------------------
+qoOLLYcxjfjxjxvvcxY$M8WdqdooWWMk:,,,,.,::::;;ivOkp    - Email.Personal .......... dev.abdulmanan92@gmail.com
+MczvxjjjffjvvjxxvvvW8%$@Wpo8Wkoq,,::::::;;;;;;;;;d    - Email.Work .............. nouman@ikonic.dev
+O?vjjjjjjfjvjjxjxvfo@$$$@8o8kM8Y,:::;;;:;!!!!!;;:Y    - LinkedIn ................ linkedin.com/in/noumansarwarr
+dffjjffjxjjxfjjfjvfq$$$$$@%ooM%xtttttttttttttttttp    - GitHub .................. github.com/nouman-s
                                                       - Company ................. ikonic.dev
 ```
 
